@@ -1,5 +1,7 @@
 ;spaceship.asm - Example ROM for the NES (Nintendo Entertainment System) showing how to control an object on the screen. Written in 6502 Assembly.
-;by Mark Bouwman (https://github.com/MarkBouwman)
+;by Mark Bouwman 
+;Follow me on github: https://github.com/MarkBouwman
+;Follow me on twitter https://twitter.com/bouwmanmark
   
   .inesprg 1   ; 1x 16KB PRG code
   .ineschr 1   ; 1x  8KB CHR data
